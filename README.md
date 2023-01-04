@@ -15,5 +15,9 @@ As regras definidas são aplicadas a cada nova "geração".
 
 ![Rules of Game](/Img/rules.png "Rules of Game")
 
+## Rodar em Python
+
+## Rodar em Vue
+
 
 
