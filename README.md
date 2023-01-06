@@ -15,7 +15,22 @@ As regras definidas são aplicadas a cada nova "geração".
 
 ![Rules of Game](/Img/rules.png "Rules of Game")
 
+>
+ 
+Antes de testar o jogo, rode os comandos abaixo(cria um ambiente virtual e instala as dependências do projeto):
+```
+virtualenv .venv
+source .venv/bin/activate
+pip install requirements.txt
+
+```
+
 ## Rodar em Python
+```
+cd Python
+python3 game_of_life.py
+
+```
 
 ## Rodar em Vue
 
